@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.ing.async.future.FamousGreekGodTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.754 s <<< FAILURE! - in com.ing.async.future.FamousGreekGodTest
+testFamousGreekGod  Time elapsed: 0.748 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at com.ing.async.future.FamousGreekGodTest.testFamousGreekGod(FamousGreekGodTest.java:16)
+
